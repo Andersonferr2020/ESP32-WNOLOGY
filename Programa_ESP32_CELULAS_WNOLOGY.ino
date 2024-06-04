@@ -11,40 +11,40 @@ const char* password = "senha";
 char* mqtt_server = "broker.app.wnology.io";
 
 //*****************************celula 1*****************************************
-//id: 6622558f6d789fc7f7eed1f4
-//Access Key:81abb950-29d4-4b73-8645-fc6cd1101c0c
-//Access Secret:6bd2e86e3be8c3bd8ee93d518b2d775fc8a537b90f64ff96d1c722a8f2df17dc
+//id: 6622558f6d789fc7eed1f4
+//Access Key:81abb950-29dfc6cd1101c0c
+//Access Secret:6bd2e86e3be8c3bd8ee975fc8a537b90f64ff96d1c722a8f2df17dc
 //********************************************************************************
 
 //*****************************celula 2*****************************************
-//id: 6622570f752526d1f7e90651
-//Access Key:e6f92758-17cc-404a-9c84-7c600b3fa751
-//Access Secret:18fee3ef7a2dfc2279a58bcbafbfc40fc4ddc0a7f9379c05bada17181b08ff92
+//id: 6622570f752526d1f790651
+//Access Key:e6f92758-17cc-404a-9c84-7ca751
+//Access Secret:18fee3ef7a240fc4ddc0a7f9379c05bada17181b08ff92
 //********************************************************************************
 
 //*****************************celula 3********************************************
-//const char* deviceID="662257d36d789fc7f7eed767";
-//const char* accesskey="993c989c-b140-421a-98fc-8f51a845a381";
-//const char* secretkey="526665619cfc9b1bd5852916859b3ff3a507dbb6953ad86a4a799a23a14d8fa3";
+//const char* deviceID="6622576d789fc7fed767";
+//const char* accesskey="993c989c-b140-421a-fc-8f51a845a381";
+//const char* secretkey="526665619cf6859b3ff3a507dbb6953ad86a4a799a23a14d8fa3";
 //const char* state_topic="wnology/662257d36d789fc7f7eed767/state";
-//const char* command_topic="wnology/662257d36d789fc7f7eed767/command";
+//const char* command_topic="wnology/662257d3689fc7f7eed767/command";
 
 //********************************************************************************
 
 //*****************************celula 4********************************************
 //const char* deviceID="66225897396f6f630e3c4c27";
-//const char* accesskey="4f0beea8-4644-412b-b198-e6a2ab78d692";
-//const char* secretkey="5dd594df72f02a71afecae4eebcbaeb53155a6c6451a3610e75b0f827a5e19fa";
-//const char* state_topic="wnology/66225897396f6f630e3c4c27/state";
+//const char* accesskey="4f0beea8-46b-b198-e6a2ab78d692";
+//const char* secretkey="5dd594df72f02a71afecae4155a6c6451a3610e75b0f827a5e19fa";
+//const char* state_topic="wnology/66225897396fc4c27/state";
 //const char* command_topic="wnology/66225897396f6f630e3c4c27/command";
 //*********************************************************************************
 
 
 //**************************celula 3 gravado no esp32***********************************************************************************************
-const char* deviceID="662257d36d789fc7f7eed767";
-const char* accesskey="993c989c-b140-421a-98fc-8f51a845a381";
-const char* secretkey="526665619cfc9b1bd5852916859b3ff3a507dbb6953ad86a4a799a23a14d8fa3";
-const char* state_topic="wnology/662257d36d789fc7f7eed767/state"; //Registra configuração para envio de informações na variável
+const char* deviceID="662257d36d789ff7eed767";
+const char* accesskey="993c989c-b140-421a51a845a381";
+const char* secretkey="526665619cfc9b1bd5852916859b3f953ad86a4a799a23a14d8fa3";
+const char* state_topic="wnology/662257d36d789fc7eed767/state"; //Registra configuração para envio de informações na variável
 const char* command_topic="wnology/662257d36d789fc7f7eed767/command";//Registra configuração para recebimento de dados na variável
 //**********************************************************************************************************************************
 const char* comando;//
