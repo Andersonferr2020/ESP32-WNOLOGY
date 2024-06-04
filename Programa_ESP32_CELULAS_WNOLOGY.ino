@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 
 // Registra o nome da rede wifi que será usada e sua respectiva senha em variáveis
-const char* ssid = "AAPM";
-const char* password = "senai117";
+const char* ssid = "nome_da_rede";
+const char* password = "senha";
 
 // Registra endereço do MQTT Broker que será utilizado na variável
 char* mqtt_server = "broker.app.wnology.io";
