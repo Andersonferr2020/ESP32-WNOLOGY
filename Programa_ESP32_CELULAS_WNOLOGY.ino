@@ -23,11 +23,11 @@ char* mqtt_server = "broker.app.wnology.io";
 //********************************************************************************
 
 //*****************************celula 3********************************************
-//const char* deviceID="6622576d789fc7fed767";
-//const char* accesskey="993c989c-b140-421a-fc-8f51a845a381";
-//const char* secretkey="526665619cf6859b3ff3a507dbb6953ad86a4a799a23a14d8fa3";
-//const char* state_topic="wnology/662257d36d789fc7f7eed767/state";
-//const char* command_topic="wnology/662257d3689fc7f7eed767/command";
+//const char* deviceID="<YourDeviceId>";
+//const char* accesskey="<YourAccessKey>";
+//const char* secretkey="YourAccessSecret>";
+//const char* state_topic="wnology/<YourDeviceId>/state";
+//const char* command_topic="wnology/<YourDeviceId>/command";
 
 //********************************************************************************
 
